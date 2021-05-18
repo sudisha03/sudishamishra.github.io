@@ -6,14 +6,32 @@
     <description>Recent content in Photography on Sudisha</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate><atom:link href="/categories/photography/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Mar 2021 12:14:34 +0600</lastBuildDate><atom:link href="/categories/photography/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Photography</title>
-      <link>/portfolio/project-1/</link>
-      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      <title>Travel to Mcleodganj</title>
+      <link>/portfolio/project-3/</link>
+      <pubDate>Mon, 01 Mar 2021 12:14:34 +0600</pubDate>
       
-      <guid>/portfolio/project-1/</guid>
-      <description>Project Requirements Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <guid>/portfolio/project-3/</guid>
+      <description>Project Requirements Visited Mcleodganj in Himachal Pradesh, India to learn about Tibetan culture in the town where Dalai Lama lives.</description>
+    </item>
+    
+    <item>
+      <title>Simba&#39;s Photoshoot</title>
+      <link>/portfolio/project-5/</link>
+      <pubDate>Thu, 07 Jan 2021 12:14:34 +0600</pubDate>
+      
+      <guid>/portfolio/project-5/</guid>
+      <description>Project Requirements Click pictures of my friend&amp;rsquo;s pet cat Simba.</description>
+    </item>
+    
+    <item>
+      <title>Blog for DU Beat</title>
+      <link>/portfolio/project-4/</link>
+      <pubDate>Mon, 07 Mar 2016 12:14:34 +0600</pubDate>
+      
+      <guid>/portfolio/project-4/</guid>
+      <description>Project Requirements Write a blog post for DU Beat, an independent student-run newspaper.</description>
     </item>
     
   </channel>

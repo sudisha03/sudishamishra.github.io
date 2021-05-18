@@ -6,14 +6,50 @@
     <description>Recent content in Portfolio on Sudisha</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate><atom:link href="/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Mar 2021 12:14:34 +0600</lastBuildDate><atom:link href="/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Photography</title>
+      <title>Travel to Mcleodganj</title>
+      <link>/portfolio/project-3/</link>
+      <pubDate>Mon, 01 Mar 2021 12:14:34 +0600</pubDate>
+      
+      <guid>/portfolio/project-3/</guid>
+      <description>Project Requirements Visited Mcleodganj in Himachal Pradesh, India to learn about Tibetan culture in the town where Dalai Lama lives.</description>
+    </item>
+    
+    <item>
+      <title>Simba&#39;s Photoshoot</title>
+      <link>/portfolio/project-5/</link>
+      <pubDate>Thu, 07 Jan 2021 12:14:34 +0600</pubDate>
+      
+      <guid>/portfolio/project-5/</guid>
+      <description>Project Requirements Click pictures of my friend&amp;rsquo;s pet cat Simba.</description>
+    </item>
+    
+    <item>
+      <title>Avengers-themed Newsletter</title>
       <link>/portfolio/project-1/</link>
-      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      <pubDate>Tue, 13 Oct 2020 12:14:34 +0600</pubDate>
       
       <guid>/portfolio/project-1/</guid>
-      <description>Project Requirements Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <description>Project Requirements Required to write an innovative newsletter in storytelling format for AdPushup&amp;rsquo;s subscriber list.</description>
+    </item>
+    
+    <item>
+      <title>Blog for DU Beat</title>
+      <link>/portfolio/project-4/</link>
+      <pubDate>Mon, 07 Mar 2016 12:14:34 +0600</pubDate>
+      
+      <guid>/portfolio/project-4/</guid>
+      <description>Project Requirements Write a blog post for DU Beat, an independent student-run newspaper.</description>
+    </item>
+    
+    <item>
+      <title>Reporting for The Hindu</title>
+      <link>/portfolio/project-2/</link>
+      <pubDate>Fri, 01 Jan 2016 12:14:34 +0600</pubDate>
+      
+      <guid>/portfolio/project-2/</guid>
+      <description>Project Requirements Was required to work on Christmas Eve in Chennai and write press coverage article for a particular event which took place on that day.</description>
     </item>
     
   </channel>
